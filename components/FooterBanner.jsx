@@ -26,6 +26,7 @@ const FooterBanner = ({
           <h3>{largeText2}</h3>
           <p>{saleTime}</p>
         </div>
+
         <div className="right">
           <p>{smallText}</p>
           <h3>{midText}</h3>
